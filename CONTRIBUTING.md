@@ -29,20 +29,6 @@ The best way to contribute to this project is by making a pull request in follow
 -   Where bugs are fixed, where possible, there should be unit tests demonstrating the bug and also proving the fix. This helps prevent regression.
 -   Change relevant comments and documentation when the behavior of code changes.
 
-## Contributing with an issue
-
-If you find any bug and you're not sure how to fix it, or you don't know how to do a pull request, then you can create an Issue. Filing an Issue will help us see the problem and fix it.
-Issues in Rahat’s[ ](https://github.com/orgs/esatya)[Github repositories](https://github.com/orgs/esatya) are the primary means by which bug reports, feedback, and general discussions are made. A contributor is invited to create an issue, discuss it, and provide a fix if needed.
-
--   https://github.com/esatya/rahat
--   https://github.com/esatya/rahat-agency
--   [https://github.com/esatya/rahat-mobilizer](https://github.com/esatya/rahat-mobilizer)
--   [https://github.com/esatya/rahat-vendor](https://github.com/esatya/rahat-vendor)
--   https://github.com/esatya/rahat-otp
--   https://github.com/esatya/rahat-documentation
--   https://github.com/esatya/rahat-contracts
--   https://github.com/esatya/rahat-vendor-app
-
 ## Reporting Bugs
 
 This section guides you through submitting a bug report for Rahat. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports 🔎.
